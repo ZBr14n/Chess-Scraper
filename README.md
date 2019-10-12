@@ -4,6 +4,7 @@
 This a web scraper that utilizes Beautiful Soup 4 python library to parse and extract data from multiple websites that list top ranking chess players in the world (both chess and chinese chess). 
 
 'https://en.wikipedia.org/wiki/FIDE_world_rankings'
+
 'http://www.01xq.com/xqplayer/xqrating.asp'
 
 
