@@ -11,4 +11,8 @@ https://hub.docker.com/r/br14nbrlam/node-python-chess
 or run the command from Docker CLI: docker pull br14nbrlam/node-python-chess
 
 
-
+# Credits
+-AWS ECR from Amazon
+-AWS ECS/Fargate from Amazon
+-Beautiful Soup from Leonard Richardson
+-Docker developed by Docker, Inc.
