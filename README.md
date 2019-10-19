@@ -1,6 +1,7 @@
 # Chess-Scraper
 
 # What is this?
+
 This a web scraper that utilizes Beautiful Soup 4 python library to parse and extract data from multiple websites that list top ranking chess players in the world (both chess and chinese chess). 
 
 'https://en.wikipedia.org/wiki/FIDE_world_rankings'
@@ -10,6 +11,7 @@ This a web scraper that utilizes Beautiful Soup 4 python library to parse and ex
 
 
 # Goal:
+
 Although this is a relatively simple program, my goal for this project is to actually learn how Docker and AWS ECS/Fargate works in the process. By creating a simple, yet practical sample program, I was able to apply a lot of the concepts to good use.
 
 
