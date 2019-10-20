@@ -1,6 +1,6 @@
 # Chess-Scraper
 
-**Please check the 'Screenshots for AWS usage' folder for the resulting output.**
+**Please check the 'Screenshots for AWS usage' folder for the output.**
 
 # What is this?
 
