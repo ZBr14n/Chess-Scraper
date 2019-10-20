@@ -1,5 +1,7 @@
 # Chess-Scraper
 
+**Please check the 'Screenshots for AWS usage' folder for the resulting output.**
+
 # What is this?
 
 This a web scraper that utilizes Beautiful Soup 4 python library to parse and extract data from multiple websites that list top ranking chess players in the world (both chess and chinese chess). 
